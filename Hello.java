@@ -11,5 +11,8 @@ public class Hello {
         System.out.println("Hello");
         System.out.println("Just nod if you can hear me");
         System.out.println("Is there anyone at home?");
+
+        System.out.println("Hello darkness, my old friend");
+        System.out.println("I've come to talk with you again");
     }
 }
