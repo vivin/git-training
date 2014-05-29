@@ -3,5 +3,6 @@ public class FeatureTwo {
         System.out.println("Feature Two.");
         System.out.println("Feature Two!");
         System.out.println("Feature two is clearly the most awesomest!");
+        System.out.println("Oh awesome");
     }
 }
