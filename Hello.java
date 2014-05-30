@@ -8,8 +8,8 @@ public class Hello {
         System.out.println("You say why and I say I don't know, oh no!");
         System.out.println("You say goodbye and I say hello!");
 
-        System.out.println("Hello");
-        System.out.println("Just nod if you can hear me");
+        System.out.println("Hello...");
+        System.out.println("Just nod if you can hear me...");
         System.out.println("Is there anyone at home?");
 
         System.out.println("Hello darkness, my old friend");
